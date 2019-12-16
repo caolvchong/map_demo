@@ -1,10 +1,10 @@
 import React from 'react'
-import ExportEg from './export'
+import ScreenDemo from './screenDemo'
 
 class App extends React.Component {
   render() {
     return (
-      <ExportEg />
+      <ScreenDemo />
     )
   }
 }
